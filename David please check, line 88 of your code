@@ -1,0 +1,11 @@
+new_column_names = {'DEPTH': "depth", 
+        'PoroRCA': "porosity",
+        'PermRCA': "permeability",
+        'PHIE_2014': "phie", 
+        'RQI': "rqi",
+        'PHIz': "phiz",
+        'FZI': "fzi",
+        'Log FZI': "logfzi",
+        'Percentile': "percentile", 
+        'HFU_RT': "rocktype",
+        'HFU_Rock Type': "rocktype"
